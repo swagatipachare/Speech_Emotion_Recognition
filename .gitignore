@@ -1,0 +1,29 @@
+# Datasets
+Crema/
+Ravdness/
+Tess/
+
+# Documentation
+pdf/
+*.docx
+
+# Audio
+*.wav
+*.mp3
+*.flac
+
+# Models
+*.h5
+*.keras
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/

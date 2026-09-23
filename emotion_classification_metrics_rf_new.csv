@@ -1,0 +1,15 @@
+Emotion,Precision,Recall,F1-score
+OAF_Fear,1.0,1.0,1.0
+OAF_Pleasant_surprise,1.0,1.0,1.0
+OAF_Sad,1.0,1.0,1.0
+OAF_angry,1.0,1.0,1.0
+OAF_disgust,1.0,1.0,1.0
+OAF_happy,1.0,1.0,1.0
+OAF_neutral,1.0,1.0,1.0
+YAF_angry,1.0,1.0,1.0
+YAF_disgust,0.9950248756218906,1.0,0.9975062344139651
+YAF_fear,1.0,1.0,1.0
+YAF_happy,1.0,1.0,1.0
+YAF_neutral,1.0,0.9950248756218906,0.9975062344139651
+YAF_pleasant_surprised,1.0,1.0,1.0
+YAF_sad,1.0,1.0,1.0
